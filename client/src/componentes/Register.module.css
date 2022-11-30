@@ -1,0 +1,19 @@
+.fond{
+    background-color: blueviolet;
+}
+
+.icon{
+    width: 40px;
+    height: 40px;
+}
+
+.cont{
+    margin-top: 14px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.camp:hover{
+    transform: scale(1.1);
+}
